@@ -1,0 +1,38 @@
+﻿=== DEEP LEARNING ===
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\deep_learning\train_dnn.py
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\deep_learning\models\diabetes_dnn.keras
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\deep_learning\models\heart_dnn.keras
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\deep_learning\models\metabolic_dnn.keras
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\deep_learning\results\dnn_results.csv
+=== MODELS ===
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\diabetes_LogisticRegression.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\diabetes_RandomForest.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\diabetes_SVM.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\diabetes_XGBoost.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\heart_LogisticRegression.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\heart_RandomForest.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\heart_SVM.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\heart_XGBoost.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\metabolic_LogisticRegression.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\metabolic_RandomForest.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\metabolic_SVM.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\models\ml\metabolic_XGBoost.pkl
+=== PROCESSED DATA ===
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\diabetes_processed.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\heart_processed.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\metabolic_processed.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\diabetes_scaler.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\diabetes_X_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\diabetes_X_train.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\diabetes_y_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\diabetes_y_train.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\heart_scaler.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\heart_X_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\heart_X_train.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\heart_y_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\heart_y_train.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\metabolic_scaler.pkl
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\metabolic_X_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\metabolic_X_train.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\metabolic_y_test.csv
+C:\Users\lenovo\Downloads\Multimodal-Healthcare 4\Multimodal-Healthcare\data\processed\splits\metabolic_y_train.csv

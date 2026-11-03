@@ -1,0 +1,13 @@
+{
+  "Dataset": "heart",
+  "Model": "CNN-GRU Fusion",
+  "Accuracy": 0.8852459016393442,
+  "Precision": 0.8387096774193549,
+  "Recall": 0.9285714285714286,
+  "F1": 0.8813559322033898,
+  "ROC-AUC": 0.9318181818181819,
+  "Threshold": 0.5,
+  "Train_samples": 242,
+  "Test_samples": 61,
+  "Feature_count": 13
+}

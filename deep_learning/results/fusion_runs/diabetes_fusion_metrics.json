@@ -1,0 +1,13 @@
+{
+  "Dataset": "diabetes",
+  "Model": "CNN-GRU Fusion",
+  "Accuracy": 0.8546464756509423,
+  "Precision": 0.6174089068825911,
+  "Recall": 0.13036045020658213,
+  "F1": 0.21526879190683448,
+  "ROC-AUC": 0.8168333197469201,
+  "Threshold": 0.5,
+  "Train_samples": 183579,
+  "Test_samples": 45895,
+  "Feature_count": 21
+}

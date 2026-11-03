@@ -1,0 +1,13 @@
+{
+  "Dataset": "metabolic",
+  "Model": "CNN-GRU Fusion",
+  "Accuracy": 0.8253638253638254,
+  "Precision": 0.7612903225806451,
+  "Recall": 0.7151515151515152,
+  "F1": 0.7375,
+  "ROC-AUC": 0.906060606060606,
+  "Threshold": 0.5,
+  "Train_samples": 1920,
+  "Test_samples": 481,
+  "Feature_count": 20
+}

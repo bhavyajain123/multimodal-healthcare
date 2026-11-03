@@ -1,0 +1,15 @@
+ACDC RESNET50 IMPROVED CLASSIFICATION REPORT
+
+              precision    recall  f1-score   support
+
+         DCM     0.5455    0.6000    0.5714        20
+         HCM     0.4242    0.7000    0.5283        20
+        MINF     0.2000    0.0500    0.0800        20
+         NOR     0.3125    0.2500    0.2778        20
+          RV     0.5417    0.6500    0.5909        20
+
+    accuracy                         0.4500       100
+   macro avg     0.4048    0.4500    0.4097       100
+weighted avg     0.4048    0.4500    0.4097       100
+
+Test Accuracy: 45.00%

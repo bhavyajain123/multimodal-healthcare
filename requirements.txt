@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+numpy
+pandas
+scikit-learn
+tensorflow
+Pillow
+gunicorn

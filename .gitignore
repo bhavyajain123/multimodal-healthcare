@@ -1,0 +1,47 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+# Large training artifacts
+*.nii.gz
+diabetes_RandomForest.pkl
+
+# MRI model checkpoints - stored externally
+acdc_*.keras
+
+# Backup files
+*.backup
+app.py.backup
+
+# Large ML artifacts
+diabetes_RandomForest.pkl
+acdc_*.keras
+
+# Raw MRI datasets
+*.nii
+*.nii.gz
+
+# Training outputs
+*.backup
+app.py.backup
+
+# Large training datasets
+data/processed/splits/*_X_train.csv
+data/processed/splits/*_X_test.csv
+data/processed/splits/*_y_train.csv
+data/processed/splits/*_y_test.csv
+# Large training data
+data/processed/splits/*_X_train.csv
+data/processed/splits/*_X_test.csv
+data/processed/splits/*_y_train.csv
+data/processed/splits/*_y_test.csv
+
+# Large model artifacts
+diabetes_RandomForest.pkl
+acdc_*.keras
+*.nii
+*.nii.gz

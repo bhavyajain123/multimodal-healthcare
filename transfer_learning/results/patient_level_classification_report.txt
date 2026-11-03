@@ -1,0 +1,15 @@
+ACDC PATIENT LEVEL CLASSIFICATION
+
+Patient-Level Accuracy: 40.00%
+
+              precision    recall  f1-score   support
+
+         DCM     1.0000    0.5000    0.6667         4
+         HCM     0.2857    0.5000    0.3636         4
+        MINF     0.0000    0.0000    0.0000         4
+         NOR     0.3333    0.2500    0.2857         4
+          RV     0.4286    0.7500    0.5455         4
+
+    accuracy                         0.4000        20
+   macro avg     0.4095    0.4000    0.3723        20
+weighted avg     0.4095    0.4000    0.3723        20
